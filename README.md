@@ -1,5 +1,5 @@
-backlog
-=======
+Backlog Items
+=============
 
 Services
 --------
@@ -7,6 +7,6 @@ Services
 - [ ] Qt Managed WebSocket (http://qtcloudservices.com/products/managed-websocket/)
 - [ ] OAuth2 authentication
 
-Concept
--------
+Concepts
+--------
 - [x] [Leaky abstraction] (concept/leaky_abstraction.md)

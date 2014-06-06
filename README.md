@@ -9,4 +9,4 @@ Services
 
 Concepts
 --------
-- [x] [Leaky abstraction] (concept/leaky_abstraction.md)
+- [x] [Leaky abstraction] (concepts/leaky_abstraction.md)

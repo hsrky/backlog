@@ -2,6 +2,8 @@ Leaky Abstraction
 =================
 
 > All non-trivial abstractions, to some degree, are leaky.
+
+
 While higher level abstraction tries to hide complexity of underlying layer, it failed to cover all possible use cases.
 Those are leaked use cases, and required user to deal with underlying layer.
 

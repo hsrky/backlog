@@ -10,7 +10,7 @@ Services
 Tools
 -----
 - [ ] Vagrant (http://www.vagrantup.com) - Virtual Machine Manager
-- [ ] docker (http://docker.io) - uses kernel cgroup nad lxc namespacing to isolate environments and resouurces in a single host (Linux)
+- [ ] docker (http://docker.io) - uses kernel cgroup nad lxc namespacing to isolate environments and resources in a single host (Linux)
 
 Concepts
 --------

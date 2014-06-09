@@ -7,6 +7,11 @@ Services
 - [ ] Qt Managed WebSocket (http://qtcloudservices.com/products/managed-websocket/)
 - [ ] OAuth2 authentication
 
+Tools
+-----
+- [ ] Vagrant (http://www.vagrantup.com) - Virtual Machine Manager
+- [ ] docker (http://docker.io) - uses kernel cgroup nad lxc namespacing to isolate environments and resouurces in a single host (Linux)
+
 Concepts
 --------
 - [x] [Leaky abstraction] (concepts/leaky_abstraction.md)

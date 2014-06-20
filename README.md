@@ -25,6 +25,7 @@ Tools
 - [ ] Gradle - Java build automation (based on Groovy) 
 - [ ] Apache Avro - Protobuf, Thrift like data serialization library, created and used internally by Hadoop.
 - [ ] GulpJs (http://gulpjs.com/) - JavaScript Build automation built on streaming (pipe) concepts
+- [ ] Chef/Puppet - Software configuration management
 
 Concepts
 --------

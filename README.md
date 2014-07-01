@@ -12,6 +12,7 @@ Frameworks
 - [ ] Play (http://www.playframework.com) - Java/Scala lightweight, stateless web framework
 - [ ] vert.x (http://vertx.io) - Polygot lightweight, high performance application platform for modern mobile, web, etc applications.
 - [ ] MEAN (http://mean.io) *m*ongoDB, *e*xpress, *a*ngularJS, *n*ode.js
+- [ ] Susy (http://susy.oddbird.net/) semantic grid system (web styling)
 
 Kits
 ----

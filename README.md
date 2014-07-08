@@ -31,6 +31,7 @@ Tools
 Concepts
 --------
 - [x] [Leaky abstraction] (concepts/leaky_abstraction.md)
+- [x] [The Joel Test] (concepts/the_joel_test.md) (http://www.joelonsoftware.com/articles/fog0000000043.html)
 
 Clouds
 ------

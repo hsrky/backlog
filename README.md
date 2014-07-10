@@ -28,6 +28,12 @@ Tools
 - [ ] GulpJs (http://gulpjs.com/) - JavaScript Build automation built on streaming (pipe) concepts
 - [ ] Chef/Puppet - Software configuration management
 
+Load Testing
+------------
+- [ ] Gatling - Written in scala
+- [ ] tsung - Written in erlang, low memory consumption, able to simulate users from different IP
+- [ ] jMeter - Java based
+
 Concepts
 --------
 - [x] [Leaky abstraction] (concepts/leaky_abstraction.md)

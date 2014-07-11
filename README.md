@@ -38,6 +38,9 @@ Concepts
 --------
 - [x] [Leaky abstraction] (concepts/leaky_abstraction.md)
 - [x] [The Joel Test] (concepts/the_joel_test.md) ([link](http://www.joelonsoftware.com/articles/fog0000000043.html))
+- [ ] CQRS (Command Query Responsibility Segregation)
+- [ ] Event Sourcing
+- [ ] AOP (Aspect Oriented Programming)
 
 Clouds
 ------

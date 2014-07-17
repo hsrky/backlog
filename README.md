@@ -41,6 +41,7 @@ Concepts
 - [ ] CQRS (Command Query Responsibility Segregation)
 - [ ] Event Sourcing
 - [ ] AOP (Aspect Oriented Programming)
+- [ ] SOLID (http://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
 
 Clouds
 ------

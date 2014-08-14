@@ -45,6 +45,7 @@ Concepts
 - [ ] SOLID (http://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
 - [ ] Feature creep (http://en.wikipedia.org/wiki/Feature_creep) - Extra features go beyond the basic function of the product and so can result in over-complication rather than simple design.
 - [ ] YAGNI (http://en.wikipedia.org/wiki/You_aren't_gonna_need_it) - a programmer should not add functionality until deemed necessary
+- [ ] MoSCoW (http://en.wikipedia.org/wiki/MoSCoW_Method) (1.) Must have, (2.) Should have, (3.) Could have, (4.) Won't have 
 
 Clouds
 ------

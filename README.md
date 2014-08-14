@@ -43,6 +43,8 @@ Concepts
 - [ ] Event Sourcing
 - [ ] AOP (Aspect Oriented Programming)
 - [ ] SOLID (http://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
+- [ ] Feature creep (http://en.wikipedia.org/wiki/Feature_creep) - Extra features go beyond the basic function of the product and so can result in over-complication rather than simple design.
+- [ ] YAGNI (http://en.wikipedia.org/wiki/You_aren't_gonna_need_it) - a programmer should not add functionality until deemed necessary
 
 Clouds
 ------

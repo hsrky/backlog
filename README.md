@@ -47,7 +47,7 @@ Concepts
 - [ ] YAGNI (http://en.wikipedia.org/wiki/You_aren't_gonna_need_it) - a programmer should not add functionality until deemed necessary
 - [ ] MoSCoW (http://en.wikipedia.org/wiki/MoSCoW_Method) (1.) Must have, (2.) Should have, (3.) Could have, (4.) Won't have 
 - [ ] There is No Spoon (http://blogs.agilefaqs.com/2009/06/15/there-is-no-spoon-objects/) There are no real-world objects, its all how we perceive things. If we try to model our software based on our understanding of the real world, the software would also be as complex as our understanding of the real world. Since in software we are dealing with creating abstractions, we really want to focus on behavior rather than Objects. 
-
+- [ ] [Bertrand Russell’s Inductivist Turkey] (http://mashimo.wordpress.com/2013/03/12/bertrand-russells-inductivist-turkey/) - It doesn’t matter how many cases we list during our inductivist reasoning, nothing guarantees that the next case will lay in this inference we deducted from our observations, as the possible experiments and observations are infinite by number and type.
 Clouds
 ------
 - [x] Cloudflare - CDN

@@ -28,7 +28,7 @@ Tools
 - [ ] Apache Avro - Protobuf, Thrift like data serialization library, created and used internally by Hadoop.
 - [ ] GulpJs (http://gulpjs.com/) - JavaScript Build automation built on streaming (pipe) concepts
 - [ ] Chef/Puppet - Software configuration management
-
+- [ ] mypy (http://mypy-lang.org/) New python variant with static and dynamic typing
 Load Testing
 ------------
 - [ ] Gatling - Written in scala
